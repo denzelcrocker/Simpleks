@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+pN6COPRU+VLAzp0CqFCMJUAQCvfpxz3z9i/27hj7NPNysSVtO3ZYW6Z4B9KQWZx1SGpZumZtru3NYbwPDKZyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zelen\\Desktop\\Подготовка к экзамену\\Программы\\ConsoleApp8-20220702T201312Z-001\\ConsoleApp8\\ConsoleApp8\\ConsoleApp8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zelen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\zelen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zelen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zelen\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
